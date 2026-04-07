@@ -2,6 +2,7 @@
 
 Implementation of the paper "Human Emotion Recognition from EEG Brain Signals using 
 Enhanced Machine Learning Methods" using the SEED-IV dataset.
+Link to the original paper: https://ieeexplore.ieee.org/abstract/document/10937822
 This is an assignment for the course titled DSP (EC208)
 
 ## Overview
