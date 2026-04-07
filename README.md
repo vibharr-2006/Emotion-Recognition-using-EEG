@@ -21,6 +21,12 @@ feature selection (AAFST), and a multi-class SVM classifier.
 | SVM + AAFST | 83% |
 | SVM + AAFST + Windowed Epochs | 85% |
 
+## Repository Structure
+├── EDA_Plots.ipynb - Plots and Analysis
+├── EEG_using_SVM_+_AAFST.ipynb - Implementation of Algorithm
+├── report.pdf
+├── README.md
+
 ## Requirements
 numpy
 scipy
